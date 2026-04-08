@@ -1,0 +1,17 @@
+{
+  "experimentId": "exp-001",
+  "createdAt": "2025-09-25T18:45:00Z",
+  "description": "Volatility analysis for SOL token",
+  "parameters": {
+    "tokenSymbol": "SOL",
+    "analysisWindowMinutes": 60,
+    "volatilityThreshold": 2.5
+  },
+  "status": "pending",
+  "results": {
+    "volatilityScore": 1.87,
+    "spikesDetected": 3,
+    "avgVolume": 152034.42
+  },
+  "notes": "Initial test run with 1-hour analysis window"
+}
