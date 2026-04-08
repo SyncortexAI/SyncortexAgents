@@ -1,6 +1,9 @@
-<a id="readme-top"></a>
+<p align="center">
+<img width="400" height="400" alt="hf_20260309_045718_0a075c8b-05d0-4610-8f94-1dfe0136d849" src="https://github.com/SyncortexAI/SyncortexAgents/blob/main/syncortex-removebg-preview.png" />
 
-# Syncortex AI
+</p>
+<h1 align="center">SyncortexAI</h1>
+<div align="center">
 
 <div align="center">
   <strong>AI-driven on-chain trading and analytics system for token, wallet, and market intelligence</strong>
